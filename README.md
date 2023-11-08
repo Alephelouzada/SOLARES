@@ -26,7 +26,7 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ## Deploy
 
-O projeto está disponível em () para visualização.
+O projeto está disponível em (https://solares-hjq0as7ja-alephelouzada.vercel.app/) para visualização.
 
 Seja bem-vindo ao SOLARES , e sinta-se à vontade para contribuir ou entrar em contato conosco!
 
